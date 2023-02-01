@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fyngirl
 - 👀 I’m interested in programming language 
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning software Engineering at ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
